@@ -1,0 +1,21 @@
+{
+  "perl": "6.*",
+  "name": "Chinese",
+  "version": "0.0.1",
+  "description": "Chinese language support for Raku (Simplified and Traditional) - Raku 中文支持（简体和繁体）",
+  "authors": ["Danslav Slavenskoj"],
+  "auth": "zef:slavenskoj",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Chinese": "lib/Chinese.rakumod",
+    "中文": "lib/Chinese.rakumod",
+    "汉语": "lib/Chinese.rakumod"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "tags": ["Chinese", "Language", "i18n", "中文", "简体", "繁体"],
+  "source-url": "https://github.com/raku-multilingual",
+  "api": "1"
+}
